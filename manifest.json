@@ -1,0 +1,38 @@
+{
+  "name": "Paansii.EU.org",
+  "short_name": "Paansii",
+  "start_url": "https://www.paansii.eu.org",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#22313F",
+  "description": "Sebuah blog personal yang membahas seputar dunia Blogging, Internet, Gadget, Games, Template Blogger, dan masih banyak lagi.",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-BjWVEOH-TjQ/YAJDs6hL_CI/AAAAAAAAAPA/T5zq8YzgUYI2-rBH69ynkk9yWuqZkIumgCLcBGAsYHQ/s48/Paansii-Images.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-BjWVEOH-TjQ/YAJDs6hL_CI/AAAAAAAAAPA/T5zq8YzgUYI2-rBH69ynkk9yWuqZkIumgCLcBGAsYHQ/s72/Paansii-Images.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-BjWVEOH-TjQ/YAJDs6hL_CI/AAAAAAAAAPA/T5zq8YzgUYI2-rBH69ynkk9yWuqZkIumgCLcBGAsYHQ/s96/Paansii-Images.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-BjWVEOH-TjQ/YAJDs6hL_CI/AAAAAAAAAPA/T5zq8YzgUYI2-rBH69ynkk9yWuqZkIumgCLcBGAsYHQ/s144/Paansii-Images.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-BjWVEOH-TjQ/YAJDs6hL_CI/AAAAAAAAAPA/T5zq8YzgUYI2-rBH69ynkk9yWuqZkIumgCLcBGAsYHQ/s168/Paansii-Images.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-BjWVEOH-TjQ/YAJDs6hL_CI/AAAAAAAAAPA/T5zq8YzgUYI2-rBH69ynkk9yWuqZkIumgCLcBGAsYHQ/s192/Paansii-Images.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-BjWVEOH-TjQ/YAJDs6hL_CI/AAAAAAAAAPA/T5zq8YzgUYI2-rBH69ynkk9yWuqZkIumgCLcBGAsYHQ/s512/Paansii-Images.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
