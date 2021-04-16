@@ -1,10 +1,10 @@
 {
-  "name": "Paansii.EU.org",
+  "name": "Paansii",
   "short_name": "Paansii",
   "start_url": "https://www.paansii.eu.org",
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color": "#22313F",
+  "theme_color": "#1e824c",
   "description": "Sebuah blog personal yang membahas seputar dunia Blogging, Internet, Gadget, Games, Template Blogger, dan masih banyak lagi.",
   "icons": [{
     "src": "https://3.bp.blogspot.com/-BjWVEOH-TjQ/YAJDs6hL_CI/AAAAAAAAAPA/T5zq8YzgUYI2-rBH69ynkk9yWuqZkIumgCLcBGAsYHQ/s48/Paansii-Images.png",
